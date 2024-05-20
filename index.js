@@ -3,6 +3,7 @@ import Ground from "./js/Ground.js";
 import CactiController from "./js/CactiController.js";
 import Score from "./js/Score.js";
 
+
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
 
