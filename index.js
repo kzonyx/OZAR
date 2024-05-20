@@ -1,5 +1,5 @@
 import Player from "./js/Player.js";
-import Ground from "./js/ground.js";
+import Ground from "./js/Ground.js";
 import CactiController from "./js/CactiController.js";
 import Score from "./js/Score.js";
 
